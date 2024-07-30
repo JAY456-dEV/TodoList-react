@@ -1,0 +1,21 @@
+.inputFeild{
+    width: 300px;
+    height: 30px;
+    padding-left: 7px;
+    font-size: 0.9rem;
+}
+
+.subBtn{
+    width: 60px;
+    height: 36px;
+}
+
+.main-Todo{
+    display: flex;
+    gap: 80px;
+}
+
+.buttonMain{
+    display: flex;
+    align-items: center;
+}
